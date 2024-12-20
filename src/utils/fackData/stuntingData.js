@@ -1,0 +1,42 @@
+export const stuntingDataTable = [
+  {
+    id: 1,
+    puskesmas: "ABC",
+    kecamatan: "AAA",
+    jumlah: 60,
+    month: "januari",
+    year: 2024,
+  },
+  {
+    id: 2,
+    puskesmas: "DEF",
+    kecamatan: "BBB",
+    jumlah: 75,
+    month: "februari",
+    year: 2024,
+  },
+  {
+    id: 3,
+    puskesmas: "GHI",
+    kecamatan: "CCC",
+    jumlah: 50,
+    month: "maret",
+    year: 2024,
+  },
+  {
+    id: 4,
+    puskesmas: "JKL",
+    kecamatan: "DDD",
+    jumlah: 80,
+    month: "april",
+    year: 2024,
+  },
+  {
+    id: 5,
+    puskesmas: "MNO",
+    kecamatan: "EEE",
+    jumlah: 90,
+    month: "mei",
+    year: 2024,
+  },
+];
